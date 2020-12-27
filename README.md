@@ -44,8 +44,6 @@
 * 解锁网易云音乐：
 * [NeteaseMusic.conf](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/NeteaseMusic.conf)
 
-### 请喝咖啡？谢谢赞赏~
-![感谢赞赏的咖啡哟~](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/zs.png)
 
 
 ## 免责声明：
